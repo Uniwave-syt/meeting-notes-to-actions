@@ -1,2 +1,2 @@
 # meeting-notes-to-actions
-Turn messy meeting notes into clear decisions, action items, owners, and follow-ups using AI.
+A lightweight AI tool that converts unstructured meeting notes into structured decisions, action items with owners and deadlines, open questions, and follow-ups.
